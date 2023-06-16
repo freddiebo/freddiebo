@@ -11,7 +11,8 @@
 <a href="https://t.me/VladBon"><img src="https://img.shields.io/badge/-telegram-blue?style=plastic&amp;labelColor=blue&amp;logo=Telegram&amp;link=https://t.me/VladBon" alt="Telegram Badge"></a>
 
 https://app.freedom24.com/to/topup
-https://tradernet.ru/pay/form&target="_blank"
+https://tradernet.ru/pay/form&target="_blank\"
+<a href="https://tradernet.ru/pay/form">...</a>
 
 <!--
 **freddiebo/freddiebo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
